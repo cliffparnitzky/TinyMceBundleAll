@@ -1,7 +1,7 @@
 {
 	"name":"cliffparnitzky/tiny-mce-bundle-all",
 	"description":"Installs the TinyMCE plugin loader and all available plugins.",
-	"keywords":["contao","tinymce","tiny editor","tinymce plugin"],
+	"keywords":["contao","tinymce","tiny editor","tinymce plugin","tinymce4"],
 	"type":"contao-module",
 	"license":"LGPL-3.0+",
 	"authors":[
@@ -18,24 +18,14 @@
 	},
 	"require":{
 		"php":">=5.3",
-		"contao/core":">=2.9.5,<3.3.0",
+		"contao/core":">=3.3.0,<4.0.0-dev",
 		"contao-community-alliance/composer-installer":"*",
-		"cliffparnitzky/tiny-mce-plugin-loader":">=1.0.0,<2.0.x-dev",
-		"cliffparnitzky/tiny-mce-advanced-list":">=1.0.0,<2.0.x-dev",
-		"cliffparnitzky/tiny-mce-context-menu":">=1.0.0,<2.0.x-dev",
-		"cliffparnitzky/tiny-mce-google-maps":">=1.0.0,<2.0.x-dev",
-		"cliffparnitzky/tiny-mce-insert-date-time":">=1.0.0,<2.0.x-dev",
-		"cliffparnitzky/tiny-mce-link-auto-detect":">=1.0.0,<2.0.x-dev",
-		"cliffparnitzky/tiny-mce-local-storage":">=1.0.0,<2.0.x-dev",
-		"cliffparnitzky/tiny-mce-pagebreak":">=1.0.0,<2.0.x-dev",
-		"cliffparnitzky/tiny-mce-quotes":">=1.0.0,<2.0.x-dev",
-		"cliffparnitzky/tiny-mce-strikethrough":">=1.0.0,<2.0.x-dev",
-		"cliffparnitzky/tiny-mce-word-count":">=1.0.0,<2.0.x-dev",
-		"cliffparnitzky/tiny-mce-you-tube":">=1.0.0,<2.0.x-dev"
+		"cliffparnitzky/tiny-mce-plugin-loader":">=2.0.0",
+		"cliffparnitzky/tiny-mce-advanced-list":">=2.0.0"
 	},
 	"extra":{
 		"branch-alias": {
-			"dev-master": "1.0.x-dev"
+			"dev-tinymce4": "2.0.x-dev"
 		}
 	}
 }
