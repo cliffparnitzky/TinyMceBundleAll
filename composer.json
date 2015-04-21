@@ -18,16 +18,20 @@
 	},
 	"require":{
 		"php":">=5.3",
-		"contao/core":">=3.3.0,<4.0.0-dev",
+		"contao/core":">=3.3.0,<3.5",
 		"contao-community-alliance/composer-installer":"*",
 		"cliffparnitzky/tiny-mce-plugin-loader":">=2.0.1",
 		"cliffparnitzky/tiny-mce-advanced-list":">=2.0.0",
 		"cliffparnitzky/tiny-mce-context-menu":">=2.0.0",
-		"cliffparnitzky/tiny-mce-insert-date-time":">=2.0.0"
+		"cliffparnitzky/tiny-mce-insert-date-time":">=2.0.0",
+		"cliffparnitzky/tiny-mce-link-auto-detect":">=2.0.0"
+	},
+	"conflict": {
+		"contao/core":"3.4.0,3.4.1,3.4.2"
 	},
 	"extra":{
 		"branch-alias": {
-			"dev-tinymce4": "2.0.x-dev"
+			"dev-tinymce4": "2.1.x-dev"
 		}
 	}
 }

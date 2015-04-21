@@ -15,7 +15,7 @@ Now for TinyMCE 4.
 Installation
 ------------
 
-Install it via [composer](https://packagist.org/packages/cliffparnitzky/tiny-mce-bundle-all).
+Install the extension via composer: [cliffparnitzky/tiny-mce-bundle-all](https://packagist.org/packages/cliffparnitzky/tiny-mce-bundle-all).
 
 
 Tracker
@@ -27,8 +27,8 @@ https://github.com/cliffparnitzky/TinyMceBundleAll/issues
 Compatibility
 -------------
 
-- min. version: Contao 3.3.0
-- max. version: Contao 3.3.x
+- min. Contao version: >= 3.3.0
+- max. Contao version: <  3.5.0
 
 
 Dependency
