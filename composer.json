@@ -24,8 +24,8 @@
 		"cliffparnitzky/tiny-mce-advanced-list":">=2.0.0",
 		"cliffparnitzky/tiny-mce-context-menu":">=2.0.0",
 		"cliffparnitzky/tiny-mce-insert-date-time":">=2.0.0",
-		"cliffparnitzky/tiny-mce-link-auto-detect":">=2.0.0"
-		"cliffparnitzky/tiny-mce-strikethrough":">=2.0.0"
+		"cliffparnitzky/tiny-mce-link-auto-detect":">=2.0.0",
+		"cliffparnitzky/tiny-mce-strikethrough":">=2.0.0",
 		"cliffparnitzky/tiny-mce-underline":">=1.0.0"
 	},
 	"conflict": {
