@@ -25,8 +25,10 @@
 		"cliffparnitzky/tiny-mce-context-menu":">=2.0.0",
 		"cliffparnitzky/tiny-mce-insert-date-time":">=2.0.0",
 		"cliffparnitzky/tiny-mce-link-auto-detect":">=2.0.0",
+		"cliffparnitzky/tiny-mce-pagebreak":">=2.0.0",
 		"cliffparnitzky/tiny-mce-strikethrough":">=2.0.0",
-		"cliffparnitzky/tiny-mce-underline":">=1.0.0"
+		"cliffparnitzky/tiny-mce-underline":">=1.0.0",
+		"cliffparnitzky/tiny-mce-word-count":">=1.0.0"
 	},
 	"conflict": {
 		"contao/core":"3.4.0,3.4.1,3.4.2"
