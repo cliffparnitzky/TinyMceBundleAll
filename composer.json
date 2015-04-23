@@ -23,10 +23,13 @@
 		"cliffparnitzky/tiny-mce-plugin-loader":">=2.1.1",
 		"cliffparnitzky/tiny-mce-advanced-list":">=2.1.0",
 		"cliffparnitzky/tiny-mce-context-menu":">=2.0.1",
+		"cliffparnitzky/tiny-mce-emoticons":">=1.0.0",
+		"cliffparnitzky/tiny-mce-horizontal-ruler":">=1.0.0",
 		"cliffparnitzky/tiny-mce-insert-date-time":">=2.0.2",
 		"cliffparnitzky/tiny-mce-link-auto-detect":">=2.0.0",
 		"cliffparnitzky/tiny-mce-pagebreak":">=2.0.0",
 		"cliffparnitzky/tiny-mce-strikethrough":">=2.0.0",
+		"cliffparnitzky/tiny-mce-text-pattern":">=1.0.0",
 		"cliffparnitzky/tiny-mce-underline":">=1.0.0",
 		"cliffparnitzky/tiny-mce-word-count":">=2.0.0",
 		"cliffparnitzky/tiny-mce-you-tube":">=2.0.0"
@@ -36,7 +39,7 @@
 	},
 	"extra":{
 		"branch-alias": {
-			"dev-tinymce4": "2.3.x-dev"
+			"dev-tinymce4": "2.4.x-dev"
 		}
 	}
 }
