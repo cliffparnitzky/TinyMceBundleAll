@@ -25,6 +25,7 @@
 		"cliffparnitzky/tiny-mce-colorpicker":">=1.0.0",
 		"cliffparnitzky/tiny-mce-context-menu":">=2.0.1",
 		"cliffparnitzky/tiny-mce-emoticons":">=1.0.0",
+		"cliffparnitzky/tiny-mce-font-awesome":">=1.0.0",
 		"cliffparnitzky/tiny-mce-horizontal-ruler":">=1.0.0",
 		"cliffparnitzky/tiny-mce-insert-date-time":">=2.0.2",
 		"cliffparnitzky/tiny-mce-link-auto-detect":">=2.0.0",
@@ -41,7 +42,7 @@
 	},
 	"extra":{
 		"branch-alias": {
-			"dev-tinymce4": "2.5.x-dev"
+			"dev-tinymce4": "2.6.x-dev"
 		}
 	}
 }
