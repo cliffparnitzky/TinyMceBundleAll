@@ -22,6 +22,7 @@
 		"contao-community-alliance/composer-plugin":"~2.0",
 		"cliffparnitzky/tiny-mce-plugin-loader":">=2.1.1",
 		"cliffparnitzky/tiny-mce-advanced-list":">=2.1.0",
+		"cliffparnitzky/tiny-mce-anchor":">=1.0.0",
 		"cliffparnitzky/tiny-mce-code-mirror":">=1.0.0",
 		"cliffparnitzky/tiny-mce-colorpicker":">=1.0.0",
 		"cliffparnitzky/tiny-mce-context-menu":">=2.0.1",
@@ -43,7 +44,7 @@
 	},
 	"extra":{
 		"branch-alias": {
-			"dev-tinymce4": "2.7.x-dev"
+			"dev-tinymce4": "2.8.x-dev"
 		}
 	}
 }
